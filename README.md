@@ -43,7 +43,7 @@ From Telegram bots to mini apps and APIs, every project is an opportunity to cre
 
   **ONE NETWORK. EVERY CREATION.**
 
-  <a href="https://t.me/RoninNetworks">
+  <a href="https://t.me/Ronin_Networks">
     <img src="https://img.shields.io/badge/TELEGRAM-UPDATES-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
